@@ -1,4 +1,5 @@
-#Interactive Bouncing Ball Simulation
+# Interactive Bouncing Ball Simulation
+
 This project is a physics-based interactive simulation featuring a bouncing ball on a blank canvas. Key features include:
 
 - Launch Mechanics: Click to launch the ball towards the clicked position.
@@ -6,3 +7,7 @@ This project is a physics-based interactive simulation featuring a bouncing ball
 - Elastic Collisions: Simulates boundary interactions with angle-based directional movement.
 - Friction Dynamics: Gradual speed reduction until the ball comes to rest, reactivating the launch instructions.
 - Built without any physics or animation libraries, this project showcases physics simulation principles and smooth animations using pure JavaScript and CSS(with optional Tailwind styling).
+
+## This is my application screenshot
+
+![screenshot](./src/img/Screenshot.png)
